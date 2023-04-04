@@ -28,7 +28,7 @@ class: center,middle
 
 #### See the code at: http://bit.ly/intro-gis-fundamentals-code
 
-<p class="license-text"><strong><strong>Introduction to GIS Fundamentals</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL" target="_blank">Richard Dunks</a> and <a xmlns:cc="http://creativecommons.org/ns#" href="https://ebrelsford.github.io/portfolio/" target="_blank" property="cc:attributionName" rel="cc:attributionURL">Eric Brelsford</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+<p class="license-text"><strong><strong>Introduction to GIS Fundamentals</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL" target="_blank">Richard Dunks</a>, <a xmlns:cc="http://creativecommons.org/ns#" href="https://ebrelsford.github.io/portfolio/" target="_blank" property="cc:attributionName" rel="cc:attributionURL">Eric Brelsford</a>, and <a href="https://www.linkedin.com/in/bethpappas/" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL"  target="_blank">Beth Pappas</a></br> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="border-width:0;width:8%" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
