@@ -2,7 +2,7 @@ layout:true
 
 <div class="header">
   
-  <p class="header-text">Class Title</p>
+  <p class="header-text">Introduction to GIS Fundamentals</p>
 </div>
 <div class="footer">
   <p class="footer-text">
