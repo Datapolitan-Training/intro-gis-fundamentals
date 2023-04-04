@@ -625,14 +625,14 @@ class:center,middle
 
 ---
 
-# Filter and Query - Multiple Conditions
+# Multiple Conditions
 ![img-left-60](images/filter6_box.png)
 --
 ![img-right-35](images/filter7.png)
 
 ---
 
-# Filter and Query - Multiple Conditions
+# Multiple Conditions
 ![img-center-90](images/filter8.png)
 
 ---
@@ -681,9 +681,17 @@ class:center,middle
 ---
 
 # Your Turn
+--
+
 + Filter for service requests in your borough
+--
+
 + Try and find something interesting
+--
+
 + Change the style of the point, either to a different shape, color, or icon
+--
+
 + Export your selection as a new shapefile
 
 ---
@@ -755,9 +763,9 @@ class:center,middle
 
 --
 
-![img-center-85](images/projections-orange.jpg)
+![img-center-65](images/projections-orange.jpg)
 
-[Digital Coast Geozone](https://geozoneblog.wordpress.com/2012/05/22/happy-birthday-mercator/)
+#### [Digital Coast Geozone](https://geozoneblog.wordpress.com/2012/05/22/happy-birthday-mercator/)
 
 ---
 
@@ -838,7 +846,8 @@ class:center,middle
 + State Plane Long Island is referred to as **EPSG:2263**
 --
 
-## Remember these two and you should be set
+
+## Remember these two & you should be set
 
 ---
 
@@ -864,12 +873,12 @@ class:center,middle
 
 ---
 
-# Selecting Points
+# Select Points
 ![img-center-70](images/select1.png)
 
 ---
 
-# Selecting Points
+# Select Points
 ![img-center-40](images/select2.png)
 
 --
@@ -878,17 +887,17 @@ class:center,middle
 
 ---
 
-# Selecting Points
+# Select Points
 ![img-center-70](images/select5_box.png)
 
 ---
 
-# Selecting Points - Attribute Table
+# Select Points - Attribute Table
 ![img-center-70](images/select6_box.png)
 
 ---
 
-# Selecting Points - Attribute Table
+# Select Points - Attribute Table
 ![img-left-30](images/select7.png)
 
 --
@@ -897,12 +906,12 @@ class:center,middle
 
 ---
 
-# Selecting Points - Saving Selection
+# Saving Selection
 ![img-center-70](images/select9_box.png)
 
 ---
 
-# Selecting Points - Saving Selection
+# Saving Selection
 
 + If we wanted to reproject the data into a different CRS, we could do that here
 --
@@ -944,12 +953,13 @@ class:center,middle
 
 class: center,middle
 # Welcome Back!
-## https://youtu.be/vVX-PrBRtTY
+## <a href="https://youtu.be/vVX-PrBRtTY" target="_blank">Video to Kick Us Off</a>
 
 ---
 
 class: center,middle
-# Tell us one thing you learned this morning that you found useful, interesting, and/or helpful
+# Tell us:
+## One thing you learned this morning that you found useful, interesting, and/or helpful
 
 ---
 
@@ -1013,23 +1023,23 @@ class:center,middle
 
 + Search for the QuickMapServices plugin and install it
 
-![img-center-75](images/basemap3_box.png)
+![img-center-70](images/basemap3_box.png)
 
 ---
 
-# Setting Up QuickMapServices Plugin
+# QuickMapServices Plugin
 + Go to the Settings Menu
 ![img-center-80](images/basemap4.png)
 
 ---
 
-# Setting Up QuickMapServices Plugin
+# QuickMapServices Plugin
 + Get the contributed packs
 ![img-center-80](images/basemap5_box.png)
 
 ---
 
-# Setting Up QuickMapServices Plugin
+# QuickMapServices Plugin
 + Revel in all the beautiful base maps
 ![img-right-30](images/basemap6.png)
 
@@ -1123,8 +1133,9 @@ class:center,middle
 
 ---
 
-# What are some of the spatial joins we could do with this data?
-![img-center-60](images/add_csv7.png)
+# Question
+## What are some of the spatial joins we could do with this data?
+![img-center-50](images/add_csv7.png)
 
 ---
 class:center,middle
@@ -1151,17 +1162,20 @@ class:center,middle
 
 --
 
-![img-center-90](images/join6.png)
+![img-center-85](images/join6.png)
 
 ---
 
-# Reproject the boroughs shapefile into 4326
+# Reproject the boroughs 
+## We'll use EPSG:4326
 ![img-center-70](images/join7.png)
 
 ---
 
-# Reproject the boroughs shapefile into 4326
-![img-center-50](images/join8_box.png)
+# Reproject the boroughs 
+## We'll use EPSG:4326
+![img-center-45](images/join8_box.png)
+
 ---
 
 # Parking facilities by borough
@@ -1192,7 +1206,8 @@ class:center,middle
 class:center,middle
 # 10 Min Break
 ![img-center-50](images/sadtopographies/grumpy_lane.jpg)
-#### Source: https://www.instagram.com/p/BCbMlYZD89p/
+
+#### Source: <a href="https://www.instagram.com/p/Bo_W2MHB_Zp/" target="_blank">sadtopographies on Instagram</a>
 
 ---
 
@@ -1217,46 +1232,59 @@ class:center,middle
 
 ---
 
-# You are greeted with a blank slate
+# print composer
+## You are greeted with a blank slate
 
 ![img-center-90](images/print_comp4.png)
 
 ---
 
-# Add New Map tool will add your current map
+# print composer
+## Add New Map adds to your current map
 ![img-left-20](images/print_comp5_box.png)
 --
-![img-right-70](images/print_comp6.png)
+![img-right-65](images/print_comp6.png)
 
 ---
 
-# Customize item properties on the right
+# print composer
+## Customize item properties on the right
 
-![img-center-50](images/print_comp7.png)
+![img-center-45](images/print_comp7.png)
 
 ---
 
-# Don't forget a title and your sources
+# Print Composer
+## Don't forget a title and your sources
 
 ![img-left-15](images/print_comp8_box.png)
 ![img-right-80](images/print_comp9.png)
 
 ---
 
-# There are a few exporting options
+# Print Composer
+## Export options
 
-![img-center-60](images/print_comp10.png)
+![img-center-50](images/print_comp10.png)
 
 ---
 
-# Now you can share your map or print it
+# Print Composer
+## You can share your map or print it
 ![img-center-80](images/print_comp11.png)
 
 ---
 
-# Print Composer Problems
+# Print Composer 
+## Problems you might encounter
+--
+
 + Map extent -> "Use current map extent"
+--
+
 + Moving map around -> Adjust with arrows
+--
+
 + "North" arrow -> need to manually align
 
 ---
@@ -1277,7 +1305,7 @@ class:center,middle
 
 ---
 
-# What We've Covered This Afternoon
+# Review of This Afternoon
 --
 
 + Adding base maps to QGIS
@@ -1306,7 +1334,7 @@ class:center,middle
 
 ---
 
-# [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)/[Mapublisher](http://www.avenza.com/mapublisher)
+# [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)/ [Mapublisher](http://www.avenza.com/mapublisher)
 ![img-center-90](images/illustrator.jpg)
 [Source](http://www.avenza.com/resources/blog/2011/06/28/how-get-open-street-map-data-adobe-illustrator-mapublisher)
 
@@ -1324,7 +1352,7 @@ Source: [NYC Open Data 311 Noise Complaints, 1 Jan - 20 May 2014, Between Midnig
 
 ---
 
-# Proprietary vs Open Source Software
+# Proprietary vs Open Source
 --
 
 + Proprietary software source code is owned by an individual or an organization and tightly restricted (usually for profit)
@@ -1334,7 +1362,7 @@ Source: [NYC Open Data 311 Noise Complaints, 1 Jan - 20 May 2014, Between Midnig
 
 ---
 
-# Proprietary vs Open Source Software
+# Proprietary vs Open Source
 
 --
 
@@ -1344,7 +1372,7 @@ Source: [NYC Open Data 311 Noise Complaints, 1 Jan - 20 May 2014, Between Midnig
 + Open source software code is generally supported by a mix of paid and volunteer professionals that contribute changes back to the community
 ---
 
-# Proprietary vs Open Source Software
+# Proprietary vs Open Source
 --
 
 + Proprietary software is often available only by purchasing a license
@@ -1356,12 +1384,13 @@ Source: [NYC Open Data 311 Noise Complaints, 1 Jan - 20 May 2014, Between Midnig
 + Companies using open source software may charge for the use of the software through their proprietary implementations or via their infrastructure
 
 ---
-
+exclude:true
 class:center,middle
 # Examples of Open Source Mapping Software
 
 
 ---
+exclude:true
 
 # [CartoDB](https://cartodb.com/)
 <iframe width="100%" height="480" frameborder="0" src="https://richard-datapolitan.cartodb.com/viz/c0d4f39e-962e-11e4-9b3b-0e9d821ea90d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -1369,7 +1398,7 @@ class:center,middle
 
 ---
 
-# A Few Things We Didn't Talk About
+# Some Things We Didn't Cover
 --
 
 + Normalizing data for choropleths ([see this video](https://www.youtube.com/watch?v=t1RvSxNcafU))
