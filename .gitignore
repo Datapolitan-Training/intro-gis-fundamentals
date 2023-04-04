@@ -1,0 +1,5 @@
+.DS_Store
+*.pptx
+*.pages
+*.sublime*
+prep/*
