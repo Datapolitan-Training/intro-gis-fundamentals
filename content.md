@@ -559,7 +559,7 @@ class:center,middle
 
 ---
 
-#311 DOT Service Requests
+# 311 DOT Service Requests
 + [Download the data](data/dot-311/20160201_20160207_DOT_311_ServiceRequests.zip) to your desktop
 + Unzip the file
 + Open in QGIS
@@ -567,7 +567,7 @@ class:center,middle
 ![img-center-60](images/DOT_311_1.png)
 ---
 
-#311 DOT Service Requests
+# 311 DOT Service Requests
 
 ![img-center-90](images/DOT_311_2.png)
 
@@ -689,7 +689,7 @@ class:center,middle
 ---
 
 class:center
-#10 Min Break
+# 10 Min Break
 ![img-center-50](images/sadtopographies/unfortunate_cove.png)
 
 #### Source: https://www.instagram.com/sadtopographies/
@@ -1101,7 +1101,7 @@ class:center,middle
 ---
 
 class:center,middle
-#5 Min Break
+# 5 Min Break
 ![img-center-50](images/sadtopographies/cape_disappointment_lighthouse.png)
 #### Source: https://www.instagram.com/sadtopographies/
 
@@ -1190,7 +1190,7 @@ class:center,middle
 ---
 
 class:center,middle
-#10 Min Break
+# 10 Min Break
 ![img-center-50](images/sadtopographies/grumpy_lane.jpg)
 #### Source: https://www.instagram.com/p/BCbMlYZD89p/
 
@@ -1262,7 +1262,7 @@ class:center,middle
 ---
 
 class:center,middle
-#[Click to submit your work](https://script.google.com/a/macros/datapolitan.com/s/AKfycbwMcE5pcJwZHdbSCN_2epwaXnRLSRPaLbHCAhxaZJ79UXaRpQ_l/exec)
+# [Click to submit your work](https://script.google.com/a/macros/datapolitan.com/s/AKfycbwMcE5pcJwZHdbSCN_2epwaXnRLSRPaLbHCAhxaZJ79UXaRpQ_l/exec)
 
 
 ---
@@ -1274,6 +1274,7 @@ class:center,middle
 
 class:center,middle
 # Take a moment to email your map to yourself
+
 ---
 
 # What We've Covered This Afternoon
@@ -1298,26 +1299,26 @@ class:center,middle
 
 ---
 
-#[ArcGIS](http://www.esri.com/software/arcgis/arcgis-for-desktop)
+# [ArcGIS](http://www.esri.com/software/arcgis/arcgis-for-desktop)
 
 ![img-center-large](images/arcgis.jpg)
 [Source](http://www.esri.com/news/arcuser/1012/a-workflow-for-creating-and-sharing-maps.html)
 
 ---
 
-#[Adobe Illustrator](http://www.adobe.com/products/illustrator.html)/[Mapublisher](http://www.avenza.com/mapublisher)
+# [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)/[Mapublisher](http://www.avenza.com/mapublisher)
 ![img-center-90](images/illustrator.jpg)
 [Source](http://www.avenza.com/resources/blog/2011/06/28/how-get-open-street-map-data-adobe-illustrator-mapublisher)
 
 ---
 
-#[Google Earth](https://www.google.com/earth/)
+# [Google Earth](https://www.google.com/earth/)
 
 ![img-center-80](images/google_earth.png)
 
 ---
-
-#[Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories)
+exclude:true
+# [Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories)
 <iframe width="100%" height="430" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col54%2C+col55+from+1dNtdy7FuBBZ2qTxX7jgZ5Dig8n96oxRrWFjuhYpJ+where+col3+%3E%3D+0+and+col3+%3C%3D+4+and+col26+%3D+2+limit+1000&amp;viz=HEATMAP&amp;h=true&amp;lat=40.844685&amp;lng=-73.915349&amp;t=1&amp;z=12&amp;l=col54&amp;y=2&amp;tmplt=2&amp;hmd=true&amp;hmg=%2366ff0000%2C%2393ff00ff%2C%23c1ff00ff%2C%23eeff00ff%2C%23f4e300ff%2C%23f4e300ff%2C%23f9c600ff%2C%23ffaa00ff%2C%23ff7100ff%2C%23ff3900ff%2C%23ff0000ff&amp;hmo=0.6&amp;hmr=26&amp;hmw=0&amp;hml=TWO_COL_LAT_LNG"></iframe>
 Source: [NYC Open Data 311 Noise Complaints, 1 Jan - 20 May 2014, Between Midnight and 4 am in the Bronx](https://www.google.com/fusiontables/DataSource?docid=1dNtdy7FuBBZ2qTxX7jgZ5Dig8n96oxRrWFjuhYpJ# map:id=3)
 
@@ -1362,7 +1363,7 @@ class:center,middle
 
 ---
 
-#[CartoDB](https://cartodb.com/)
+# [CartoDB](https://cartodb.com/)
 <iframe width="100%" height="480" frameborder="0" src="https://richard-datapolitan.cartodb.com/viz/c0d4f39e-962e-11e4-9b3b-0e9d821ea90d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
